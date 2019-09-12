@@ -1178,7 +1178,7 @@ body::-webkit-scrollbar-thumb {
   font-smoothing: antialiased;
   text-rendering: optimizeLegibility;
   position: fixed;
-  z-index: -20;
+  z-index: -18;
 }
 
 .container {
