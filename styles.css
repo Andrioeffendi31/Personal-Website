@@ -319,7 +319,7 @@ input[type=checkbox]:checked ~ .sidebarIconToggle > .diagonal.part-2 {
 }
 
 .ucapan {
-    margin-bottom: 15%;
+    margin-bottom: 20%;
     max-width: 55%;
     height: auto;
     left: 20%;
@@ -424,7 +424,7 @@ body::-webkit-scrollbar-thumb {
 .middle{
   position: absolute;
   top: 70%;
-  left: 24%;
+  left: 30%;
   transform: translateY(-50%);
   width: 70%;
   text-align: center;
